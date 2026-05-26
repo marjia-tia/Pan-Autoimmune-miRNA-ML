@@ -1,9 +1,5 @@
 # Pan-Autoimmune miRNA-mRNA Dysregulation Network Analysis and ML-Based Classification
 
-**Author:** Marjia Islam Tia  
-**Institution:** Asian University for Women, Bangladesh  
-**Contact:** marjia.tiaaa@gmail.com
-
 ## Overview
 A computational framework identifying shared miRNA-mRNA regulatory patterns across four autoimmune diseases — Vitiligo, SLE, Rheumatoid Arthritis, and Type 1 Diabetes — with machine learning-based disease classification and RNAi therapeutic implications.
 
