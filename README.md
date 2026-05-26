@@ -44,5 +44,5 @@ pip install -r requirements.txt
 - Thomas & Veerabathiran (2025): Immunologic Research
 - GWAS Catalog: https://www.ebi.ac.uk/gwas
 
-- ## Author
+## Author
 Marjia Islam Tia
