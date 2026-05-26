@@ -43,3 +43,6 @@ pip install -r requirements.txt
 - miRTarBase 2025: Nucleic Acids Research, 2025
 - Thomas & Veerabathiran (2025): Immunologic Research
 - GWAS Catalog: https://www.ebi.ac.uk/gwas
+
+- ## Author
+Marjia Islam Tia
