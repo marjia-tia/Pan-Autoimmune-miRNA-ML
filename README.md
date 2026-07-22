@@ -1,6 +1,6 @@
 # Pan-Autoimmune miRNA-mRNA Dysregulation Network Analysis and ML-Based Classification of Immune Gene Signatures
 
-A computational framework identifying shared microRNA-mRNA regulatory architecture across four autoimmune diseases — Vitiligo, Systemic Lupus Erythematosus (SLE), Rheumatoid Arthritis (RA), and Type 1 Diabetes (T1D) — integrating differential expression analysis, network biology, machine learning classification, SHAP interpretability, and RNAi therapeutic target identification, with cross-validation against GWAS-confirmed risk loci.
+A computational framework identifying shared microRNA-mRNA regulatory architecture across four autoimmune diseases named Vitiligo, Systemic Lupus Erythematosus (SLE), Rheumatoid Arthritis (RA), and Type 1 Diabetes (T1D), integrating differential expression analysis, network biology, machine learning classification, SHAP interpretability, and RNAi therapeutic target identification, with cross-validation against GWAS-confirmed risk loci.
 
 **Manuscript:** preprint archived via Zenodo (DOI: 10.5281/zenodo.XXXXXXX)
 **Author:** Marjia Islam Tia — Asian University for Women, Bangladesh
