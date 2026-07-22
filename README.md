@@ -2,9 +2,6 @@
 
 A computational framework identifying shared microRNA-mRNA regulatory architecture across four autoimmune diseases named Vitiligo, Systemic Lupus Erythematosus (SLE), Rheumatoid Arthritis (RA), and Type 1 Diabetes (T1D), integrating differential expression analysis, network biology, machine learning classification, SHAP interpretability, and RNAi therapeutic target identification, with cross-validation against GWAS-confirmed risk loci.
 
-**Manuscript:** preprint archived via Zenodo (DOI: 10.5281/zenodo.21498964)
-**Author:** Marjia Islam Tia
-
 ---
 
 ## Key Findings
@@ -88,17 +85,10 @@ T1D analysis was underpowered (n=22) and yielded no significant DEGs under stric
 
 If referencing this work, please cite:
 
-> Tia, M. I. (2025). *Shared miRNA-mRNA Regulatory Architecture Across Autoimmune Diseases: A Computational Framework Integrating Network Analysis, Machine Learning Classification, and RNAi Therapeutic Target Identification.* Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Tia, M. I. (2025). *Shared miRNA-mRNA Regulatory Architecture Across Autoimmune Diseases: A Computational Framework Integrating Network Analysis, Machine Learning Classification, and RNAi Therapeutic Target Identification.* Zenodo. https://doi.org/10.5281/zenodo.21498964 
 
 ---
 
-## References
-
-- Huang, H.Y., et al. miRTarBase update: experimentally validated microRNA-target interactions. *Nucleic Acids Research.*
-- Thomas, G. & Veerabathiran, R. (2025). PTPN22 polymorphism and autoimmune disease susceptibility: a meta-analysis. *Immunologic Research.*
-- Sollis, E., et al. (2023). The NHGRI-EBI GWAS Catalog: knowledgebase and deposition resource. *Nucleic Acids Research*, 51(D1), D977–D985.
-
----
 
 ## License
 
