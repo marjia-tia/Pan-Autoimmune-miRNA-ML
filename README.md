@@ -85,7 +85,7 @@ T1D analysis was underpowered (n=22) and yielded no significant DEGs under stric
 
 If referencing this work, please cite:
 
-> Tia, M. I. (2026). *Shared miRNA-mRNA Regulatory Architecture Across Autoimmune Diseases: A Computational Framework Integrating Network Analysis, Machine Learning Classification, and RNAi Therapeutic Target Identification.* Zenodo. https://doi.org/10.5281/zenodo.21498964 
+> Tia, M. I. (2026). Shared MIRNA-MRNA Regulatory Architecture across autoimmune diseases: a computational framework integrating network analysis, machine learning classification, and RNAI therapeutic target identification. Zenodo (CERN European Organization for Nuclear Research). https://doi.org/10.5281/zenodo.21498964 
 
 ---
 
